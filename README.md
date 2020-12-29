@@ -1,4 +1,4 @@
-#**helloWorldApp**
+**#helloWorldApp**
 
 **App Description** 
 Hello World App that has buttons to change text color, app background color, and custom text strings
